@@ -1,3 +1,6 @@
 [submodule "mp3tag-convert/thqpylib"]
 	path = mp3tag-convert/thqpylib
 	url = git@github.com:tilusnet/thqpylib.git
+[submodule "txtenc-convert/thqpylib"]
+	path = txtenc-convert/thqpylib
+	url = git@github.com:tilusnet/thqpylib.git
