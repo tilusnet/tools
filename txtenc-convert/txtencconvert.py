@@ -74,7 +74,6 @@ if __name__ == '__main__':
     print_args(myargs)
 
     t_flist = FileIO().getFileList(myargs.path, ext='.txt', ignore_ext_case=True)
-    t_flist.sort()
     print('Found {} files.'.format(len(t_flist)))
 
     txtenc = TxtEncoding()
