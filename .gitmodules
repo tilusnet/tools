@@ -4,3 +4,6 @@
 [submodule "txtenc-convert/thqpylib"]
 	path = txtenc-convert/thqpylib
 	url = git@github.com:tilusnet/thqpylib.git
+[submodule "deflate/thqpylib"]
+	path = deflate/thqpylib
+	url = git@github.com:tilusnet/thqpylib.git
