@@ -12,7 +12,6 @@ if __name__ == '__main__':
         sys.exit(2)
 
     m3_flist = FileIO().getFileList(sys.argv[1], ext='.mp3', ignore_ext_case=True)
-    m3_flist.sort()
     fc = 0
     for f in m3_flist:
         fc += 1
